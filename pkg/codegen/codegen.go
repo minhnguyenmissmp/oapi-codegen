@@ -25,7 +25,7 @@ import (
 
 	"github.com/getkin/kin-openapi/openapi3"
 
-	"github.com/deepmap/oapi-codegen/pkg/codegen/templates"
+	"github.com/minhnguyenmissmp/oapi-codegen/pkg/codegen/templates"
 )
 
 // Uses the Go templating engine to generate all of our server wrappers from
